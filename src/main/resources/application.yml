@@ -1,0 +1,3 @@
+application.firebase.credentials:
+  jsonpath: src/main/resources/firebase-key.json
+  database-url: https://embaixadaflaespanha-dev1.firebaseio.com

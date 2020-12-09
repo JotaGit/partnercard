@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "embaixadaflaespanha-dev1",
+  "private_key_id": "696cb2ae14d617e615c7fc1364fc5461ec5be4d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJumKJEBkKkzfP\nKovEvfEbWgkIM/0kg/3XFtZy1Meie8yzWUOJuzljjQmB0N8q3H5MGWGBqHRi9GUj\nRGNMD1jAEaRceNxndX+hAS/alhbbGYHvqxogdhRPq+vSThYquu52O3e/eIBICNYt\nzxxjc7Mc5yaVEefCMjgPkMA4cuhH9QQperlyyu8ZTgJhgvhZbqqRELf6FAWN4lAU\no8omlbg4M3IEl6nVCbaxzng4oZptNmEEp2hprfk5kpFwvplLsy1B7+Y+xqfd8wd9\nHECCS+DexmTs9a89h6aGHMAMK7Lj/qmSU3apFthv7NxFepLYUFLTb2zqlRta1KG8\niEHgpQkNAgMBAAECggEADxl57at8TFvXphSXsKrNBNCY83m8vYJ5uiNV+vNtW/6r\nRFNuqD0Q3yA78XEae0FU3Mpbj5J138BOX7TrP9K4QGwxotBTIxVa78jAdbqdTFoc\n7T0f8AUWoR4LwUqiAyHJ3qS14mmZJIswyO4DQHh1FDlDHI5iDBmpM5UQpkkHlPci\nZ1J4A4UyLE2UXJKHo1mCc7m/AdLZX2EmtLrdnpsZXSDTVjIK3an12ITtzJq8Fynm\nDos8XwJB37QWwBISIoneT8RNAus1/AEjotIaiOGcv3W6Xd7WP8fjTNx63J8rn65h\ndpvDmYHK7232L2rib64ENsv/3Qj+7gwxr4zthJtH4QKBgQD4wdmST7+mK8zQJuam\nxm2sxhODJ5SyDKmKGQrqYJ1xKledMPpfp4Ll7jgJEyMzGrnQA19iPA5YNlHXBA7S\nF8dCDIIbsrTQzrFzmRmZirXu81HpSv6t5sJgZ2ML+fYghqb6um0wBjeuaOw1xvqf\nuWTBtXWCfLGInGTgmCxpXDVJMQKBgQDPmf73YxDVJwbjk4QD0qnZvvnUA1M+nknO\nyEtVRbXl7GxqVt6LqTDxQEXDelIjsazNGb3QJxFFUsloF6HcGQTzL6gK7wDbxW6i\nHRBHx7J1RNn34hdawQp3/0S+Ad+OTUTWD9uDwiMPxBrk46Ic/zgukq4HSVb8LyBd\n7E4DSEAGnQKBgQCOeIADE1fBdW6NfOo3dIhWHvAH+wBn5WaoqGUfDYy+xrB9YBLV\n/Bu1UvWXBPXxDAqF/5h+q8TPcvT2f+V5IJNH2eAeuwBiYy8w9Ou7i71diNBOHFy2\n/uYuzqfksRntURGLooBss/LqGj/HIRpjpov1gdc2j/IiOuhv1dgB1ATU0QKBgQCh\nV/fWYIHWhyxNdnplVjZ3antTkPoDcpW+ReB2d2U1OpfP1Y/ET0wgU2lk0Q5Be3bn\nOBhTS+maTQsHAUbkffVg4yrgxHuQUlL3X0sl3kgN5+LXSjoIaHswY44TdfU+7UKQ\nc2aRcjI5sJmORnPZwWjymUDznMYj3KR1GpBO8LoB6QKBgQC5m4kNVUAnYoP8q/2r\njGTwE07gw5Gp7RH7RggnhQQS/qz5qOAiB2gKx7r6HXH7rISvQjy9dfoenJJNDQt0\n5KrrVXLSEnqqpWZWm+vKln2jxAEtM6K/SkHeYR8zI5c2450v056Ye1nHV8wMwwYU\nPKsFUJaQWSRlW5KK5KjAoKAVdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4r7vh@embaixadaflaespanha-dev1.iam.gserviceaccount.com",
+  "client_id": "102282229767652871376",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4r7vh%40embaixadaflaespanha-dev1.iam.gserviceaccount.com"
+}

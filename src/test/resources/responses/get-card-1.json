@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Joao Marcelo",
+    "lastname": "M. Dangremon",
+    "nickname": "Jota",
+    "role": "Diretor",
+    "order": "0000001",
+    "picture": "/users/picture/user1_v1.png",
+    "background": "/image/bg_card_v1.png"
+}

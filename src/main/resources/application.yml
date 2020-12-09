@@ -1,3 +1,6 @@
-application.firebase.credentials:
-  jsonpath: src/main/resources/firebase-key.json
-  database-url: https://embaixadaflaespanha-dev1.firebaseio.com
+#application.firebase.credentials:
+#  jsonpath: src/main/resources/firebase-key.json
+#  database-url: https://embaixadaflaespanha-dev1.firebaseio.com
+
+spring.cloud.gcp.project-id: embaixadaflaespanha-dev1
+spring.cloud.gcp.credentials.location: file:src/main/resources/firebase-key.json

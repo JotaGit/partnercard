@@ -1,7 +1,7 @@
 package com.embaixadaflaespanha.partnercard.service;
 
 import com.embaixadaflaespanha.partnercard.payload.Partner;
-import com.embaixadaflaespanha.partnercard.persistence.GeneralRepository;
+import com.embaixadaflaespanha.partnercard.persistence.PartnerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @RequiredArgsConstructor
 public class CardService {
 
-    private final GeneralRepository generalRepository;
+    private final PartnerRepository generalRepository;
 
     public Partner getCardForPartner(Integer id) throws Exception {
 
